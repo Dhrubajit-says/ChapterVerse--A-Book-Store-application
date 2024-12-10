@@ -17,22 +17,17 @@ ChapterVerse is a web-based book store application that allows users to browse b
 - **Libraries:** Chance.js for random data generation.
 
 ## How to Run the Project
-1. Clone the repository:
-  
-   `git clone https://github.com/Dhrubajit-says/ChapterVerse--A-Book-Store-application.git`
+1. Clone the repository:<br>
+`git clone https://github.com/Dhrubajit-says/ChapterVerse--A-Book-Store-application.git`<br>
 Navigate to the project directory:
-
-`cd ChapterVerse--A-Book-Store-application`
-Install dependencies:
-
-`npm install`
-Start the server:
-
+`cd ChapterVerse--A-Book-Store-application`<br>
+Install dependencies:<br>
+`npm install`<br>
+Start the server:<br>
 `node server.js`
-Open the application in your browser at:
-
-`http://localhost:3000`
-Project Structure
+Open the application in your browser at:<br>
+`http://localhost:3000`<br>
+Project Structure<br>
 index.html: Main entry point for the application.<br>
 style.css: Contains all the styling for the project.<br>
 server.js: Backend server for handling API requests.<br>
